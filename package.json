@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "jest": "^29.3.1"
+  },
+  "name": "pig-latin",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
